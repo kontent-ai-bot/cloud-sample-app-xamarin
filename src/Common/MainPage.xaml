@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinDelivery"
+             x:Class="XamarinDelivery.MainPage">
+
+	<Label Text="Welcome to Xamarin Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center"  x:Name="lblText" />
+    <ListView  x:Name="lstView" RowHeight="120" >
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" VerticalOptions="Fill" BackgroundColor="White" Padding="15,15,15,15">
+                        <StackLayout Orientation="Vertical">
+                            <Label Text = "{Binding Title}" FontSize="24" />
+                            <Label Text = "{Binding Summary}"  TextColor="DarkGray" LineBreakMode="WordWrap" MinimumHeightRequest="50"/>
+                        </StackLayout>
+                        <Image Source="{Binding ImageUrl}" HorizontalOptions="End" />
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>
