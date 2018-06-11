@@ -1,3 +1,5 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-69014260-4/Kentico/cloud-sample-app-xamarin?pixel)](https://github.com/igrigorik/ga-beacon)
+
 # Kentico Cloud sample Xamarin application
 [<img align="right" src="/img/android.png" alt="Android sample app" />](/img/android.png)
 
