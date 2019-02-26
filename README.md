@@ -13,6 +13,6 @@ To get started go throught the two article that will guide you step by step by t
 
 ## Additional information 
 
-More information in a [blogpost](https://github.com/Kentico/cloud-sample-app-xamarin/wiki/Using-.NET-Delivery-SDK-in-Xamarin).
+Additional information on [wiki](https://github.com/Kentico/cloud-sample-app-xamarin/wiki/Using-.NET-Delivery-SDK-in-Xamarin).
 
 ![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/cloud-sample-app-xamarin?pixel)
