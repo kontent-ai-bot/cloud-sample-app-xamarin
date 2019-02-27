@@ -5,11 +5,11 @@ This project demonstrates how you can use [Kentico Cloud Delivery SDK](https://g
 
 # Get started
 
-To get started go throught the two article that will guide you step by step by the implementation
+To get started go read the two articles that will guide you step by step through the implementation
 * [Creating a Kentico Cloud-powered Xamarin App - part 1](https://kenticocloud.com/blog/creating-a-kentico-cloud-powered-xamarin-app-p1)
-    *  Showcase how to build a base Xamarin app using Kentico Cloud. Creating the initial application, adding a service, and implementing calls to retrieve the data.
+    *  Showcase of building a basic Xamarin app using Kentico Cloud, creating an initial application, adding a service, and implementing calls to retrieve data.
 * [Creating a Kentico Cloud-powered Xamarin App - part 2](https://kenticocloud.com/blog/creating-a-kentico-cloud-powered-xamarin-app-p2)
-    * Showcase how to display that content and build a cross-platform app using XAML.
+    * Showcase of displaying content and building a cross-platform app using XAML.
 
 ## Additional information 
 
