@@ -1,6 +1,9 @@
-# Kentico Cloud sample Xamarin application
+#  ARCHIVED - Kentico Cloud sample Xamarin application
 
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico-cloud)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+> <h2 align="center">:warning:<br><br>Archive Notice</h2>
+> This repository is no longer being maintained for compatibility with the latest version of the product. Examples in this repository refer to the previous product name, <strong>Kentico Cloud</strong>, rather than the new product name, <strong>Kentico Kontent</strong>.
 
 [<img align="right" src="/img/android.png" alt="Android sample app" />](/img/android.png)
 
